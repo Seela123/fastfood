@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    background-color: #9DC08B;
+}
+
+
+
+img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: bisque;
+}
+
+.sela {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    right: 6cm;
+    color: green;
+    transform: rotate(45deg);
+}
+
+
+
+h1 {
+    position: absolute;
+    right: 50%;
+    color: green;
+    font-size: 1.5cm;
+}
+
+
+.moni {
+    position: absolute;
+    font-size: 50px;
+    left: 3cm;
+    top: 3cm;
+    border:solid 3px;
+    transform: rotate(-36deg);    
+
+}
+
+
+
+
+.moni:hover  {
+    color: black;
+    font-size: 70px;
+    border: green;
+    box-shadow: 4cm;
+}
+
+
+
+
+
+
+.selmani {
+  position: absolute;
+  width: 18cm;
+  height: 14cm;
+  left: 8cm;
+  top: 1.5cm;
+  
+}
+
+
+.nana {
+    position: absolute;
+    top: 12cm;
+    color: #3A98B9;
+      
+}
